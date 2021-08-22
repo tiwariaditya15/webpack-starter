@@ -7,4 +7,4 @@
 - Image asset
   - type: "asset/resource"
   - type: "asset"
-- plugins: [nw HtmlWebapckPlugin({})]
+- plugins: [new HtmlWebapckPlugin({})]
