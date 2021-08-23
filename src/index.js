@@ -6,4 +6,4 @@ import App from "./App";
 
 const root = document.getElementById("root");
 console.log({ root });
-root.innerHTML = `${App({ name: "webpack" })}`;
+root.innerHTML = `${App({ name: "webpack5" })}`;
