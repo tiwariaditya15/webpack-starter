@@ -36,6 +36,10 @@ module.exports = {
       },
     ],
   },
+  devServer: {
+    inline: false,
+    contentBase: "./dist",
+  },
   optimization: {
     splitChunks: {
       cacheGroups: {
